@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "569558037663",
+    "firebase_url": "https://smart-jacket-buft-default-rtdb.firebaseio.com",
+    "project_id": "smart-jacket-buft",
+    "storage_bucket": "smart-jacket-buft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569558037663:android:d939dfa73e518b5d93deaa",
+        "android_client_info": {
+          "package_name": "com.example.smart_jacket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569558037663-caav6g4k5db1d8t0ki0lso58nps2s6kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNLcN6KhRJ6VTLRCJo2YknVnd8jiBe6GA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569558037663-caav6g4k5db1d8t0ki0lso58nps2s6kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569558037663:android:d294f88e2418da4193deaa",
+        "android_client_info": {
+          "package_name": "com.example.smart_jacket_bubt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569558037663-caav6g4k5db1d8t0ki0lso58nps2s6kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNLcN6KhRJ6VTLRCJo2YknVnd8jiBe6GA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569558037663-caav6g4k5db1d8t0ki0lso58nps2s6kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569558037663:android:46de36ef363176d093deaa",
+        "android_client_info": {
+          "package_name": "com.example.smart_jacket_buft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569558037663-caav6g4k5db1d8t0ki0lso58nps2s6kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNLcN6KhRJ6VTLRCJo2YknVnd8jiBe6GA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569558037663-caav6g4k5db1d8t0ki0lso58nps2s6kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569558037663:android:8e0025d6f317f1bb93deaa",
+        "android_client_info": {
+          "package_name": "com.example.smart_jacket_buft_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569558037663-caav6g4k5db1d8t0ki0lso58nps2s6kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNLcN6KhRJ6VTLRCJo2YknVnd8jiBe6GA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569558037663-caav6g4k5db1d8t0ki0lso58nps2s6kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
